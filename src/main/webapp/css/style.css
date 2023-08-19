@@ -1,0 +1,189 @@
+@charset "ISO-8859-1";
+body{
+	background-color:rgb(237, 210, 147); 
+}
+.mainnav{
+   background-color: #CD853F;
+   text-line: center;
+   text-color: #000000; 
+}
+.links{
+	padding-left:28%;
+	padding-bottom:0.9%;
+	padding-top:2%;
+}
+.linkul{
+	padding-top:-5%;
+}
+.mainnav li{
+	text-line: center;
+    display: inline;
+    padding: 0 10px;
+    border-right: 1px solid #c4c769; 
+    text-color: #000000;
+    padding-left:3%;
+    
+}
+.mainnav li a{
+    text-decoration: none;
+    color: #000000;
+    font-size: 18px;
+    padding-top:-15%;
+}
+
+.mainnav li a:hover{
+	background-color:rgb(237, 210, 147); 
+}
+.contents {
+    float: left;
+    width: 700px;
+    margin:0 0 0 10px;
+    display: center;
+	padding-left: 40%;
+}
+.contents p{
+    font-size: 90%;
+}
+.maior{
+    width: 250px;
+    resize:none;
+}
+
+.maior{
+    width: 250px;
+}
+.recado{
+    width: 700px;
+    height: 200px;
+}
+
+.login{
+	display: center;
+	padding-left: 40%;
+	padding-top:10%;	
+}
+.footer{
+	display: center;
+	padding-left: 40%;
+	background-color:brown;
+}
+.faleconosco{
+	border-color: black; 
+	border-style: solid; 
+}
+.cardapioslide{
+    height:45%;
+    width: 65%;
+    margin-left:18%;
+    margin-top:0%;    
+}
+
+.divlogo{
+	margin-bottom:-1.8%;
+	margin-right:0%;
+	float:left;
+}
+.textslide{
+    background-color: black;
+    opacity: 70%;
+}
+
+footer{
+	 position: absolute;
+    bottom: 0;
+    background-color: #CD853F;
+    color:#000000;
+    width: 100%;
+    height: 100px;    
+    text-align: center;
+    line-height: 100px;
+    margin-left:-18%;
+    margin-top: 15%;
+    
+}
+
+#myFooter{
+    padding-top:32px;
+}
+
+#myFooter .container{
+    text-align: center;
+}
+
+#myFooter .footer-copyright{
+    margin-bottom: 35px;
+    text-align: center;
+    color: #777;
+}
+
+#myFooter ul{
+    list-style-type: none;
+    padding: 0;
+    margin-bottom: 18px;
+}
+
+#myFooter a{
+    color: #282b2d;
+    font-size: 18px;
+}
+
+#myFooter li{
+    display: inline-block;
+    margin: 0px 15px;
+    line-height: 2;
+}
+
+#myFooter .footer-social{
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: #eee;
+}
+
+#myFooter .fa{
+    font-size: 36px;
+    margin-right: 15px;
+    margin-left: 20px;
+    background-color: white;
+    color: #d0d0d0;
+    border-radius: 51%;
+    padding: 10px;
+    height: 60px;
+    width: 60px;
+    text-align: center;
+    line-height: 43px;
+    text-decoration: none;
+    transition:color 0.2s;
+}
+
+.quemf{
+	margin-left:0%;
+}
+
+.quemb{
+	background-color: rgb(237, 210, 147); 
+}
+
+.textboot{
+	padding-top:0%;
+}
+
+.falecf{
+	margin-left:0%;
+}
+
+.falecb{
+	background-color: rgb(237, 210, 147); 
+}
+
+.butao{
+	margin-left:41%;
+}
+
+.indexf{
+	margin-left:0%;
+}
+
+.indexb{
+	background-color: rgb(237, 210, 147); 
+}
